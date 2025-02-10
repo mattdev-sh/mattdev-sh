@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Who am I?
-I am an IT professional with over **10 years of experience** in software development. Currently, I serve as **IT Technical Manager** at Naica SC, where I lead innovative projects by merging software development with digital strategy.  
+I'm an IT professional with over **10 years of experience** in software development. I'm currently the IT Technical Manager at Naica SC, where I drive innovative projects by integrating software development with digital strategy. In addition, I work as a freelancer, providing IT consulting and custom software solutions.
 
 💡 **Key Skills:**
 - 🔹 **Front-end:** React, TypeScript, Tailwind CSS  
